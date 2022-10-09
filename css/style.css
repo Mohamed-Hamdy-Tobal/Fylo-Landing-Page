@@ -404,6 +404,7 @@ form input[type="submit"]:hover {
 }
 .access .container form input[type="email"] {
     width : 90%;
+    border: none;
 }
 .access .container form input[type="submit"] {
     margin: 20px 0 0;
